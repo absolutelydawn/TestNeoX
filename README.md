@@ -7,6 +7,7 @@ NeoX모델을 불완전한 임의 데이터로 학습 완료
 수정사항
 -질문에 대한 대답을 생성해야함
 -성능 안좋음(학습 데이터가 너무 적음, github데이터 전체 불러오기 x)
+>> https://github.com/songys/Chatbot_data clone하여 다시 학습해볼것
 
 20230731
 - Colab에서 NeoX Github 패키지를 사용하려고 하였으나 실패
