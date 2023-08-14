@@ -13,3 +13,9 @@ inColab
 - 수정사항
   > 질문에 대한 대답의 형태로 생성하기
   > 성능이 안좋다(학습 데이터가 너무 적음 : https://github.com/songys/Chatbot_data clone하여 다시 학습해볼것
+
+20230810
+Learn3.ipynb 작성, 전체 데이터셋 학습하려고 했는데 런타임 사용량 제한
+
+20230814
+Fewdata.ipynb 작성, 전체 데이터셋 중 3000개 정도만 학습하여 진행 시도
