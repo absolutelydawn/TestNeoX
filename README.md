@@ -1,5 +1,6 @@
 # TestNeoX
 inColab
+(For 2023 Duksung Women's University's Computer Science Graduation Project)
 
 
 20230731
